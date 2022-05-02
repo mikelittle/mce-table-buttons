@@ -8,7 +8,7 @@
  * Plugin Name:       MCE Table Buttons
  * Plugin URI:        http://10up.com/plugins-modules/wordpress-mce-table-buttons/
  * Description:       Add <strong>controls for table editing</strong> to the visual content editor with this <strong>light weight</strong> plug-in.
- * Version:           3.3.1
+ * Version:           3.3.1.1
  * Requires at least: 4.0
  * Requires PHP:      
  * Author:            Jake Goldman, 10up, Oomph

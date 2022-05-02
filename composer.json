@@ -1,0 +1,18 @@
+{
+	"name": "mikelittle/mce-table-buttons",
+	"description": "MCE Table Buttons",
+	"homepage": "http://10up.com/plugins-modules/wordpress-mce-table-buttons/",
+	"license": "GPL2+",
+	"authors": [
+	{
+		"name": "Jake Goldman, 10up, Oomph",
+		"homepage": "https://10up.com"
+	}
+  ],
+	"type": "wordpress-plugin",
+	"require":
+	{
+		"php": ">=7.3",
+		"composer/installers": "~1.10"
+	}
+}
