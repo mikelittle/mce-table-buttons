@@ -4,8 +4,8 @@ Donate link:       http://10up.com/plugins-modules/wordpress-mce-table-buttons/
 Tags:              tables, table, editor, WYSIWYG, buttons, tinymce, classic editor
 Requires at least: 4.0
 Tested up to:      5.9
-Stable tag:        3.3.1
-Requires PHP:      
+Stable tag:        3.3.1.2
+Requires PHP:
 License:           GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
